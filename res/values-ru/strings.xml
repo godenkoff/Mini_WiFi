@@ -114,8 +114,8 @@ Mini_WiFi 1.1.755
     <string name="media_type_others">Прочие</string>
     <string name="media_select_items">Выберите пункт</string>
     <string name="media_select_x_items">Выбрано %d пунктов</string>
-    <string name="pictures_group_name_x_num_x" formatted="false">%s | %d张</string>
-    <string name="videos_group_name_x_num_x" formatted="false">%s | %d个</string>
+    <string name="pictures_group_name_x_num_x" formatted="false">%s | %d шт.</string>
+    <string name="videos_group_name_x_num_x" formatted="false">%s | %d шт.</string>
     <string name="media_upload_none_selected">Вы не выбрали файл для загрузки!</string>
     <string name="file_volume_local_internal">Память</string>
     <string name="file_volume_local_external">SD-карта</string>
@@ -144,7 +144,7 @@ Mini_WiFi 1.1.755
     <string name="upgrade_package_download_finish_body">Файл обновления успешно загружен, нажмите кнопку установить.</string>
     <string name="notification_downloading">Загружено，осталось %s</string>
     <string name="notification_download_finished">Скачивание завершено, нажмите кнопку "Просмотр"</string>
-    <string name="notification_uploading">Загрузка,остаалось %s</string>
+    <string name="notification_uploading">Загрузка,осталось %s</string>
     <string name="notification_upload_finished">Загрузка выполнена, можно просмотреть на компьютере</string>
     <string name="server_version_too_low">Версия на PC слишком стара, чтобы использовать эту функцию после обновления.</string>
     <string name="error_unknown">Неизвестная ошибка</string>
