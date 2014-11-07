@@ -14,7 +14,7 @@
     <string name="extend_root_folder">Доп.диск</string>
     <string name="shared_root_folder">Общий диск</string>
     <string name="browse_directory_failed">Обзор папок не удался</string>
-    <string name="loading_prompt">Подключен к компьютеру...</string>
+    <string name="loading_prompt">Подключение к компьютеру...</string>
     <string name="please_connect_miwifi">Подключите Mini_WiFi</string>
     <string name="be_downloading">Скачать</string>
     <string name="already_downloaded">Загружено</string>
