@@ -1,3 +1,3 @@
 Mini_WiFi
 =========
-Приложение для управления Xiaomi mini wifi на android-устройствах
+Приложение для управления Xiaomi Portable USB Mini WiFi на android-устройствах
